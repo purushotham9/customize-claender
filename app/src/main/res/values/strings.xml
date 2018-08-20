@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer Button</string>
+    <string name="resend_otp">Resend otp</string>
+    <string name="send_otp">Send otp</string>
+    <string name="resend_otp_formatted">Resend otp formatted</string>
+    <string name="stop">Stop</string>
+</resources>
